@@ -3,7 +3,6 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
       <module name="myta.app" target="21" />
-      <module name="Myta2.app" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
