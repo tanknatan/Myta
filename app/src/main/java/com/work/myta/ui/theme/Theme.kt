@@ -1,4 +1,4 @@
-package com.shamilov.natan.myta.ui.theme
+package com.work.myta.ui.theme
 
 import android.app.Activity
 import android.os.Build

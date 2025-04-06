@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Myta"
+rootProject.name = "Myta2"
 include(":app")
  
